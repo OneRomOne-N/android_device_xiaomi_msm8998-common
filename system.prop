@@ -273,4 +273,3 @@ persist.audio.speaker.dualmode=true
 
 ro.wlan.mimo=1
 
-ro.mk.maintainer=wood
